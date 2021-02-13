@@ -3,10 +3,11 @@
 </h1> 
 
 ![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
+![PYTHON](https://img.shields.io/badge/PYTHON-Beginner-blue)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
 ![CSS](https://img.shields.io/badge/CSS-Beginner-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
+
 
 Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
