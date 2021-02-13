@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 🎉🎈🎉🎈
 
-<!--
-**JvPaltanin/JvPaltanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
+![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 
-Here are some ideas to get you started:
+Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Me encontre:
+
+- GitHub: [https://github.com/JvPaltanin][github]
+- LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin-167a36201/][linkedin]
+- Site: [in production][site]
+- E-mail: joaovpaltanin116@gmail.com
+
+![João Victor github stats](https://github-readme-stats.vercel.app/api?username=JvPaltanin&show_icons=true&hide_border=true)
