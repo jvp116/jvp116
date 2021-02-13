@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário UN
 
 ### 📢 Me encontre:
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-C2CB12?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/joão-victor-paltanin/)](https://www.linkedin.com/in/joão-victor-paltanin/)
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-C2CB12?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin-167a36201/)](https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin-167a36201/)
 [![Gmail Badge](https://img.shields.io/badge/-joaovpaltanin116@gmail.com-C2CB12?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaovpaltanin116@gmail.com)](mailto:joaovpaltanin116@gmail.com)
 
 ### 📚 Procurando meu currículo? Entre em contato!
