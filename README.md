@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
 
-Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
+Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
 ### 📢 Me encontre:
 
