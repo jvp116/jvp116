@@ -8,10 +8,10 @@
 
 Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
-### 📬 Me encontre:
+### 📢 Me encontre:
 
 - GitHub: [https://github.com/JvPaltanin][github]
-- LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin-167a36201/][linkedin]
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/João Victor Paltanin/)  
 - Site: [in production][site]
 - E-mail: joaovpaltanin116@gmail.com
 
