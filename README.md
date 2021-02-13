@@ -21,4 +21,4 @@ Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UN
 [![Gmail Badge](https://img.shields.io/badge/-joaovpaltanin116@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovpaltanin116@gmail.com)](mailto:joaovpaltanin116@gmail.com)
 
 ### 📚 Procurando meu currículo? Entre em contato!
-![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvPaltanin&show_icons=true&theme=merko)
+![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvPaltanin&show_icons=true&theme=gruvbox)
