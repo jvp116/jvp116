@@ -2,9 +2,9 @@
 
 ![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
-![CSS](https://img.shields.io/badge/CSS-Beginner-blue)
+![CSS](https://img.shields.io/badge/CSS-Beginner-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
 
 Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
