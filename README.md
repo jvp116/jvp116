@@ -11,9 +11,11 @@ Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UN
 ### 📢 Me encontre:
 
 - GitHub: [https://github.com/JvPaltanin][github]
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/João Victor Paltanin/)  
-- Site: [in production][site]
+- 
+- Site: 🚧 Em construção... 🚧
 - E-mail: joaovpaltanin116@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvPaltanin&langs_count=8)](https://github.com/JvPaltanin/github-readme-stats)
 
 ### 📚 Procurando meu currículo? Entre em contato!
 ![João Victor github stats](https://github-readme-stats.vercel.app/api?username=JvPaltanin&show_icons=true&hide_border=true)
