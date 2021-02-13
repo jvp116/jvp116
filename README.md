@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="">
-    <img alt="MyWebsite" src="jvp.png" width="60" />
-  </a>
-</p>
 <h1 align="center">
   João Victor Paltanin
 </h1> 
