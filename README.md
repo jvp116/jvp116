@@ -4,10 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby v2
-</h1>
-
-# João Victor Paltanin 
+  João Victor Paltanin
+</h1> 
 
 ![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
