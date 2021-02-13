@@ -15,4 +15,5 @@ Estudando de Análise e Desenvolvimento de Sistemas no [Centro Universitário UN
 - Site: [in production][site]
 - E-mail: joaovpaltanin116@gmail.com
 
+### 📚 Procurando meu currículo? Entre em contato!
 ![João Victor github stats](https://github-readme-stats.vercel.app/api?username=JvPaltanin&show_icons=true&hide_border=true)
