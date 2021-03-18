@@ -3,13 +3,12 @@
 </h1> 
 
 ![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
-![PHP](https://img.shields.io/badge/PHP-Beginner-blue)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
 ![CSS](https://img.shields.io/badge/CSS-Beginner-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
 
-Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no [Centro Universitário UNICURITIBA](https://www.unicuritiba.edu.br/). 
 
 ### 📢 Me encontre:
 
