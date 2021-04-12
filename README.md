@@ -47,6 +47,6 @@
 
 <div align="center">
   
-  [![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-paltanin&hide=contribs,issues&show_icons=true)](https://github.com/jv-paltanin)
+  [![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-paltanin&hide=contribs,issues&show_icons=true)](https://github.com/jv-paltanin/github-readme-stats)
   
 </div>
