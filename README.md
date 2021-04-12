@@ -14,7 +14,7 @@
   **Cursando Análise e Desenvolvimento de Sistemas :man_technologist:**
   
   **Paraná- Brasil :earth_americas:**
-  
+  <img src="https://komarev.com/ghpvc/?username=jv-paltanin&label=Profile%20views&color=0e75b6&style=social" alt="João Victor Paltanin" />
 </div>
 
 <div align="center">
