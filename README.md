@@ -29,10 +29,6 @@
   ![HTML Badge](https://img.shields.io/badge/HTML-FF3300?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-9400D3?&style=for-the-badge&logo=css3&logoColor=white)
   
-  ## Interesse
-  
-  ![WEB Badge](https://img.shields.io/badge/Desenvolvimento_WEB-43853D?style=for-the-badge&logo=&logoColor=white)
-  
   ## Contato
   
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jv-paltanin)
