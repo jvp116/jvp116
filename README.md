@@ -21,14 +21,6 @@
 
 <div align="center">
   
-  ## Stack
-  
-  ![Java Badge](https://img.shields.io/badge/Java-EB8B23?style=for-the-badge&logo=java&logoColor=black)
-  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML Badge](https://img.shields.io/badge/HTML-FF3300?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS Badge](https://img.shields.io/badge/CSS-9400D3?&style=for-the-badge&logo=css3&logoColor=white)
-  
   ## Contato
   
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jv-paltanin)
