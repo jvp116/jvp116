@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  **Programador Java Trainee :man_technologist:**
+  **Programador Java Junior :man_technologist:**
   
   **Cursando Análise e Desenvolvimento de Sistemas :man_technologist:**
   
