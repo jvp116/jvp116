@@ -11,8 +11,9 @@
 
   **Programador Java Junior :man_technologist:**
   
-  **Cursando Análise e Desenvolvimento de Sistemas :man_technologist:**
-  
+  **Analista e Desenvolvedor de Sistemas :man_technologist:**
+  **Especialista em Desenvolvimento Ágil de Software(cursando) :man_technologist:**
+
   **Paraná- Brasil :earth_americas:**
   <br>
   <br>
