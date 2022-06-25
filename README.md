@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  **Programador Java Júnior :man_technologist:**
+  **Programador Fullstack Júnior :man_technologist:**
   
   **Analista e Desenvolvedor de Sistemas**</br>
   **Especialista em Desenvolvimento Ágil de Software(cursando) :man_technologist:**
