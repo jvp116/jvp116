@@ -21,6 +21,6 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovpaltanin116@gmail.com)
   [![LinkedinBadge](https://img.shields.io/badge/Linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin)
 
-  [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-paltanin&show_icons=false)](https://github.com/joao/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-paltanin&show_icons=false)](https://github.com/jv-paltanin/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv-paltanin&layout=compact)](https://github.com/jv-paltanin/github-readme-stats)
 </div>
