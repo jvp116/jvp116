@@ -22,7 +22,7 @@
   
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jv-paltanin)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovpaltanin116@gmail.com)
-  [![LinkedinBadge](https://img.shields.io/badge/Linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin-167a36201/)
+  [![LinkedinBadge](https://img.shields.io/badge/Linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-paltanin)
   
 </div>
 
