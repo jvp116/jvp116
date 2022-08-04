@@ -11,9 +11,6 @@
   
   **Analista e Desenvolvedor de Sistemas**</br>
   **Especialista em Desenvolvimento Ágil de Software(cursando) :man_technologist:**
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=jv-paltanin&label=Profile%20views&color=0e75b6&style=social" alt="João Victor Paltanin" />
 </div>
 
 <div align="center">
