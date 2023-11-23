@@ -9,8 +9,8 @@
 
   **Fullstack Developer :man_technologist:**
   
-  **Analista e Desenvolvedor de Sistemas**</br>
-  **Especialista em Desenvolvimento Ágil de Software(cursando) :man_technologist:**
+  **Tecnólogo em Análise e Desenvolvimento de Sistemas**</br>
+  **Especialista em Desenvolvimento Ágil de Software :man_technologist:**
 </div>
 
 <div align="center">
