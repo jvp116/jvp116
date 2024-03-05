@@ -13,4 +13,4 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/></a>
 <a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/></a>
 <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" height="70"/></a>
-<a href="https://camel.apache.org/"><img src="https://camel.apache.org/_/img/logo-camel-medium-372cf8688f.png" alt="Apache Camel" width="90" height="70"/></a>
+<a href="https://camel.apache.org/"><img src="https://camel.apache.org/_/img/logo-d-a567cee6fa.svg" alt="Apache Camel" width="70" height="70"/></a>
