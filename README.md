@@ -10,4 +10,3 @@ Deeply interested in System Design and scalable architectures. I actively study 
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopaltanin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaopaltanin/)
-[![Email](https://img.shields.io/badge/Email-contato.je17@gmail.com-red?style=flat&logo=gmail)](mailto:contato.je17@gmail.com)
